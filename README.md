@@ -1,4 +1,4 @@
-# OEM Key Generator
+# Keyboard Tester
 
 ![](https://github.com/Nikki-M12/kerboard-tester/blob/main/key_tester.png)
 
